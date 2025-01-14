@@ -1,7 +1,7 @@
 # Hi there, I'm Nevil Sanchpara! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/nevil-sanchpara/)](https://linkedin.com/in/nevil-sanchpara/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/nevil-sanchpara)](https://github.com/nevil-sanchpara)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/nevil-sanchpara)](https://github.com/nevilsanchpara)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:nsanchpara203@gmail.com)](mailto:nsanchpara203@gmail.com)
 
 ## About Me
